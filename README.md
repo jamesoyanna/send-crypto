@@ -33,8 +33,8 @@ When a user clicks on the connect to wallet button, it will immediately trigger 
 
 Website display.
 
-![Send Crypto Website](![send-crypto](https://user-images.githubusercontent.com/26815113/155898801-3344d5a1-65f5-4efd-b3c8-e6c107063f42.PNG)
-)
+![send-crypto](https://user-images.githubusercontent.com/26815113/155898801-3344d5a1-65f5-4efd-b3c8-e6c107063f42.PNG)
+
 
 
 ## How to use the application
