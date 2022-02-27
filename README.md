@@ -31,7 +31,7 @@ When a user clicks on the connect to wallet button, it will immediately trigger 
 
 ### Pictorial View of the Application
 
-Landing page display.
+Website display.
 
 ![Send Crypto Website](![send-crypto](https://user-images.githubusercontent.com/26815113/155898801-3344d5a1-65f5-4efd-b3c8-e6c107063f42.PNG)
 )
@@ -45,7 +45,6 @@ Landing page display.
 	- [Installation](#installation)
 - [Development](#development)
 - [Running the App](#running-the-app)
-- [Deployment](#deployment)
 - [Authors](#authors)
 - [License](#license)
 
