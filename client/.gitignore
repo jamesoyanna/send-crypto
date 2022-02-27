@@ -4,4 +4,4 @@ dist
 dist
 dist-ssr
 *.local
-/client/src/.env
+/src/.env
